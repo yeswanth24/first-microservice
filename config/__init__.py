@@ -1,1 +1,1 @@
-from config.config import app
+from config.config import app,db
